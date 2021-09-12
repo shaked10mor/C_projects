@@ -1,3 +1,10 @@
+Explanation:
+The user will enter 3 numbers: a, b and c (according to the formula ax^2+bx+c=0).
+The appropriate solutions will be returned.
+Including special cases such as endless solutions and no solution.
+
+C code:
+
 #include <assert.h>
 #include <math.h>
 #include <stdio.h>
