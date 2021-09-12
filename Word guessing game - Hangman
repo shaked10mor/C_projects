@@ -1,8 +1,8 @@
 Explanation:
-The user needs to guess the chosen word. If the user has 10 wrong turns - he loses the game.
+The user needs to guess the chosen word. 
+If the user has 10 wrong turns - he loses the game.
 
 C code:
-
 
 #include <assert.h>
 #include <ctype.h>
